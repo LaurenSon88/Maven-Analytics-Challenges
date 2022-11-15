@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100" src="https://pbs.twimg.com/profile_images/1189174330225238017/cVdX5B_L_400x400.jpg"> <h1 align="center">Maven Challenges</h1>
+<img align="left" alt="Coding" width="100" src="https://pbs.twimg.com/profile_images/1189174330225238017/cVdX5B_L_400x400.jpg"><img align="right" alt="Coding" width="100" src="https://pbs.twimg.com/profile_images/1189174330225238017/cVdX5B_L_400x400.jpg"> <h1 align="center">Maven Challenges</h1>
 <h3 align="center">Real-world business cases</h3>
 
 ## Table of Contents
@@ -34,7 +34,8 @@
 <img align="center" alt="Coding" width="800" src="https://public.tableau.com/static/images/Ma/MavenPizzaChallenge_16669724678680/PlatosPizza/4_3.png">
 
 
-## World Cup Challenge
+## World Cup Challenge 
+  (currently project)
 
 ### About the dataset
 - This dataset contains 5 tables in CSV format
@@ -44,7 +45,11 @@
 - The World Cup Matches table contains all the results from the previous editions of the World Cup
 - The International Matches table contains all the results from every international match in history outside of the World Cup for each qualified country
 
-NOTE: A 6th table with the 2022 World Cup Squads will be added on November 15th once they are officialy announced, which will include details on the players for each team
+ NOTE: A 6th table with the 2022 World Cup Squads will be added on November 15th once they are officialy announced, which will include details on the players for each team
+
+### How to play the Maven World Cup Challenge
+
+  To participate in this challenge, your task is to choose a country to root for in the 2022 FIFA World Cup (it doesn't have to be your own!) and use data visualization to tell a single-page story of their history with the World Cup, their road to Qatar, and their expectations for this year's tournament.
 
 
 ## Future Challenge
