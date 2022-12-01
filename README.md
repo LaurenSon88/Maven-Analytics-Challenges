@@ -35,7 +35,7 @@
 
 
 ## World Cup Challenge 
-  (currently project)
+  (current project)
 
 ### About the dataset
 - This dataset contains 5 tables in CSV format
